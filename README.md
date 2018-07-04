@@ -21,7 +21,7 @@ PyQt5 写的 GUI 串口调试助手稳定版
 点击查看 [PyQt5 安装配置](https://github.com/Oslomayor/Hey-PyQt5)
 
 ## 最终文件
-Windows 版本 exe 可执行文件 [下载](https://github.com/Oslomayor/PyQt5-Serial-Port/releases/download/V1.0/PyQt5-SerialPort.zip)
+Windows 版本 exe 可执行文件(稳定版) [下载](https://github.com/Oslomayor/PyQt5-SerialPort-Stable/releases/download/V_Stable/SerialPort_Stable.zip)
 
 ## 版本更新
 [V_稳定版](https://github.com/Oslomayor/PyQt5-SerialPort-Stable)  
