@@ -1,0 +1,1 @@
+pyinstaller -F -w --ico=daodao.ico Call_Ui_SerialPort.py 
