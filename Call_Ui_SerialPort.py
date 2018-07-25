@@ -80,7 +80,7 @@ class MyMainWindow(QMainWindow, Ui_Form):
                 
                 
     
-    # 串口接收数据，（很奇怪，我没有设置槽函数，它好像会自动监听）
+    # 串口接收数据
     def Com_Receive_Data(self):
         
         try:
@@ -129,7 +129,7 @@ class MyMainWindow(QMainWindow, Ui_Form):
         self.Com_Send_Data()
 
         
-    # 串口 打开/关闭 按钮按下
+    # 串口刷新按钮按下
     def Com_Open_Button_clicked(self):
         #### com Open Code here ####
         comName = self.Com_Name_Combo.currentText()
