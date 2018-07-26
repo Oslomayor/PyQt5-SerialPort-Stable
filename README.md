@@ -1,7 +1,7 @@
 # PyQt5-SerialPort-Stable
 PyQt5 写的 GUI 串口调试助手稳定版
 
-感谢 [王工](https://github.com/cxinping) 的《PyQt5快速开发与实战》,让我再短短几天时间内从零基础 PyQt 开发出美观可用的串口调试程序.  
+感谢 [王工](https://github.com/cxinping) 的《PyQt5快速开发与实战》,让我在短短几天时间内从零基础 PyQt 开发出美观可用的串口调试程序.  
 感谢 [fitsir](https://github.com/fitsir/myPySerial) 的串口通信参考代码,2016年就用 PyQt5 开发串口调试助手,那时候应该还没有系统的 PyQt5 中文资料.
 
 ## GUI 展示
