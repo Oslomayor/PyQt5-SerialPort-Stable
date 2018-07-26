@@ -1,13 +1,14 @@
 # PyQt5-SerialPort-Stable
 PyQt5 写的 GUI 串口调试助手稳定版  
-> 关于PyQt5可参考 [PyQt5快速开发与实战](https://github.com/cxinping/PyQt5)
+> 关于 PyQt5 可参考 [《PyQt5快速开发与实战》](https://github.com/cxinping/PyQt5)  
+
 ## GUI 展示
 ![](https://github.com/Oslomayor/Markdown-Imglib/blob/master/Imgs/PyQt5-SerialPort_Stable.png?raw=true)  
 
 ## 文件说明
 1. *.ui 为界面文件  
 2. *.py 为两个代码文件，其中一个由 *.ui 转换而来，另一个是业务逻辑文件，两者通过后者调用前者相关联  
-3. *.txt 为pyinstaller 打包 exe 指令  
+3. *.txt 为 pyinstaller 打包 exe 指令  
 4. *.ico 为应用程序图标  
 
 ## 开发环境
