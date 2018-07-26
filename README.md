@@ -1,6 +1,6 @@
 # PyQt5-SerialPort-Stable
-PyQt5 写的 GUI 串口调试助手稳定版
-
+PyQt5 写的 GUI 串口调试助手稳定版  
+> 关于PyQt5可参考 [PyQt5快速开发与实战](https://github.com/cxinping/PyQt5)
 ## GUI 展示
 ![](https://github.com/Oslomayor/Markdown-Imglib/blob/master/Imgs/PyQt5-SerialPort_Stable.png?raw=true)  
 
