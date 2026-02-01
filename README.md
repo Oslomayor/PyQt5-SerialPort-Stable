@@ -25,9 +25,3 @@ Windows 版本 exe 可执行文件(稳定版) [下载](https://github.com/Osloma
 [V_稳定版](https://github.com/Oslomayor/PyQt5-SerialPort-Stable)  
 [V2.0](https://github.com/Oslomayor/PyQt5-Serial-Port-V2)  
 [V1.0](https://github.com/Oslomayor/PyQt5-Serial-Port)  
-
-## 微信公众号
-
-​                                                              扫码关注 CrazyEngineer
-
-![](https://github.com/Oslomayor/Markdown-Imglib/blob/master/Imgs/CrazyEngineer.jpg?raw=true)
